@@ -1,0 +1,7 @@
+{
+  "name": "vscode-code-workspace-sandbox",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
